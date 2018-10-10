@@ -8,8 +8,19 @@ namespace Exceptions
         public  Dictionary<string, Contact> AddressBooks = new Dictionary<string, Contact>();
 
         public void AddContact(Contact contact)
+        
         {
-            AddressBooks.Add(contact.Email, contact);
+            try 
+            {
+                AddressBooks.Add(contact.Email, contact);
+            } catch (ArgumentException ex) 
+            {
+                Console.WriteLine("----------------------------");
+                Console.WriteLine($"This contact was already added {ex.Message}");
+            }
+
+
+            
         }
         // GetByEmail
         public Contact GetByEmail(string email)
