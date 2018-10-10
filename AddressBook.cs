@@ -5,16 +5,17 @@ namespace Exceptions
 {
     public class AddressBook {
 
-          public  Dictionary<string, Contact> AddressBook2 = new Dictionary<string, Contact>();
+        public  Dictionary<string, Contact> AddressBooks = new Dictionary<string, Contact>();
 
-          
-            public void AddContact(string email, Contact contact ){
-                AddressBook2.Add(email, contact);
+        public void AddContact(Contact contact)
+        {
+            AddressBooks.Add(contact.Email, contact);
+        }
+        // GetByEmail
+        public Contact GetByEmail(string email)
+        {
+            return AddressBooks[email];
+        }
 
-        }
-            // GetByEmail
-        public GetByEmail(email){
-            return (contact)
-        }
     }
 }
