@@ -1,0 +1,11 @@
+/Users/helen/workspace/csharp/exercises/Exceptions/bin/Debug/netcoreapp2.1/Exceptions.deps.json
+/Users/helen/workspace/csharp/exercises/Exceptions/bin/Debug/netcoreapp2.1/Exceptions.runtimeconfig.json
+/Users/helen/workspace/csharp/exercises/Exceptions/bin/Debug/netcoreapp2.1/Exceptions.runtimeconfig.dev.json
+/Users/helen/workspace/csharp/exercises/Exceptions/bin/Debug/netcoreapp2.1/Exceptions.dll
+/Users/helen/workspace/csharp/exercises/Exceptions/bin/Debug/netcoreapp2.1/Exceptions.pdb
+/Users/helen/workspace/csharp/exercises/Exceptions/obj/Debug/netcoreapp2.1/Exceptions.csprojAssemblyReference.cache
+/Users/helen/workspace/csharp/exercises/Exceptions/obj/Debug/netcoreapp2.1/Exceptions.csproj.CoreCompileInputs.cache
+/Users/helen/workspace/csharp/exercises/Exceptions/obj/Debug/netcoreapp2.1/Exceptions.AssemblyInfoInputs.cache
+/Users/helen/workspace/csharp/exercises/Exceptions/obj/Debug/netcoreapp2.1/Exceptions.AssemblyInfo.cs
+/Users/helen/workspace/csharp/exercises/Exceptions/obj/Debug/netcoreapp2.1/Exceptions.dll
+/Users/helen/workspace/csharp/exercises/Exceptions/obj/Debug/netcoreapp2.1/Exceptions.pdb
